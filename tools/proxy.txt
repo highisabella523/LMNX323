@@ -1,0 +1,76 @@
+http://176.111.37.216:39811#Hong Kong - 92%
+http://120.232.115.170:17981#China - 20%
+https://210.105.16.87:8888#South Korea - 5%
+https://173.225.245.67:443#Jamaica - 91%
+https://190.211.102.2:443#Costa Rica - 85%
+https://45.91.211.14:443#Seychelles - 98%
+https://130.195.250.34:9443#Spain - 96%
+https://193.136.192.57:443#Portugal - 81%
+https://109.204.88.17:9443#Bulgaria - 90%
+https://91.92.250.33:443#Albania - 92%
+https://185.68.28.79:443#Czechia - 90%
+https://185.225.28.50:443#North Macedonia - 84%
+https://62.90.77.30:443#Israel - 53%
+https://109.248.149.34:9443#Latvia - 73%
+https://146.70.170.210:9443#Norway - 99%
+https://185.164.35.16:443#Bosnia and Herzegovina - 96%
+https://3.76.29.12:443#Germany - 100%
+https://146.70.242.146:9443#Sweden - 66%
+https://185.68.191.63:443#Italy - 33%
+https://149.102.245.65:9443#France - 55%
+https://193.87.1.71:443#Slovakia - 20%
+https://199.127.197.211:443#Grenada - 32%
+https://24.51.117.170:443#Bahamas - 22%
+https://64.119.193.154:443#Barbados - 66%
+https://170.80.111.178:9443#Guatemala - 66%
+https://198.44.157.19:9443#Canada - 66%
+https://198.105.124.180:8443#Finland - 55%
+https://92.119.176.3:443#GB - 66%
+https://35.179.34.132:443#GB - 69%
+https://43.166.187.191:8443#USA - 22%
+https://146.70.244.2:9443#Austria - 66%
+https://87.238.253.66:443#Denmark - 55%
+https://213.207.130.34:443#Cyprus - 66%
+https://146.70.221.18:9443#Serbia - 70%
+https://79.127.149.1:443#Nigeria - 66%
+https://164.160.68.11:443#Reunion - 77%
+https://95.153.31.66:443#Estonia - 66%
+https://146.70.176.242:9443#Belgium - 66%
+https://47.254.229.162:443#Malaysia - 66%
+https://103.58.150.11:443#Thailand - 66%
+https://185.221.132.226:443#Luxembourg - 70%
+https://81.208.170.208:443#Saudi Arabia - 33%
+https://146.70.203.18:443#Hungary - 33%
+https://94.102.226.59:443#Montenegro - 33%
+https://8.212.178.252:8000#Philippines - 33%
+https://195.182.74.92:42443#Lithuania - 22%
+https://212.243.240.120:443#Switzerland - 66%
+https://195.54.178.210:443#Georgia - 66%
+https://91.221.229.86:443#Armenia - 66%
+https://79.72.36.217:443#Oman - 33%
+https://38.165.233.178:9443#Paraguay - 66%
+https://54.207.141.34:443#Brazil -22%
+https://179.27.167.72:443#Uruguay - 55%
+https://185.10.240.95:9443#Iran - 36%
+https://34.248.251.170:443#Ireland - 33%
+https://185.206.32.72:443#Kazakhstan - 33%
+https://50.7.176.123:443#Bangladesh - 33%
+https://47.243.181.85:42529#Taiwan - 33%
+https://103.108.94.162:9443#New Zealand - 33%
+https://65.255.63.50:443#Turks and Caicos Islands - 22%
+https://66.249.146.210:443#Antigua and Barbuda - 33%
+https://190.112.224.179:443#Curacao - 33%
+https://178.175.142.7:443#Moldova - 33%
+https://4.213.225.50:443#India - 66%
+https://149.88.111.1:443#Colombia - 55%
+https://95.173.223.78:9443#Peru - 22%
+https://185.165.170.1:443#Iceland - 66%
+https://103.107.198.242:9443#Singapore - 33%
+https://186.46.220.117:443#Ecuador - 22%
+https://149.88.22.46:9443#Mexico - 33%
+https://50.7.176.123:443#Netherlands - 22%
+https://37.120.156.18:9443#Poland - 22%
+https://46.243.119.92:443#Romania - 22%
+https://82.146.46.31:443#Russia - 33%
+https://188.132.141.20:443#Turkey - 22%
+socks5://95.111.228.190:1080#France - 33%
